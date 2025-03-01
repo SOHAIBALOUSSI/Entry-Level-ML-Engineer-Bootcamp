@@ -1,0 +1,5 @@
+1 - pip list
+2 - pip show numpy 
+3 - pip uninstall numpy
+4 - pip install numpy
+5 -
